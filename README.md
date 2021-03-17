@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/snakemake-pass-brightgreen.svg)
 
-3' sequencing RNA profiling (3'SRP) analysis :snake:
+Bulk RNA Barcoding sequencing analysis :snake:
 ==============================================
 
-This project is an analysis pipeline using **Snakemake** for 3'SRP.
+This project is an analysis pipeline using **Snakemake** adapted from the [Bird 3'SRP analysis pipeline](https://gitlab.univ-nantes.fr/bird_pipeline_registry/srp-pipeline) for BRB-seq.
 The pipeline takes as input a **samplesheet** describing your samples, one or multiple pairs of **fastq** files and eventually a file listing the comparisons you want to test.
 
 Description
