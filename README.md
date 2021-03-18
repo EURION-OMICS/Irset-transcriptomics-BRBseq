@@ -26,7 +26,7 @@ All tools necessary to run the pipeline are installed in conda environments.
 ## Quick launch guide on provided test data
 
 ```
-git clone "https://gitlab.univ-nantes.fr/bird_pipeline_registry/srp-pipeline.git"
+git clone "https://github.com/EURION-OMICS/Irset-transcriptomics-BRBseq.git"
 cd srp-pipeline
 ./install_dependencies.sh
 source activate srp
